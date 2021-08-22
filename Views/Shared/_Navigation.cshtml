@@ -1,0 +1,42 @@
+﻿@using Prueba_Tecnica.Helpers
+@using System.Linq
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+
+<nav role="navigation" style="height: 100%; overflow: inherit; margin-left: 2%;">
+    <br class="sidebar-collapse">
+    <ul class="nav" id="side-menu">
+        <li class="nav-header">
+
+            <img class="center" src="~/Img/logo.png" />
+            <span class="centeredContentDiv">
+
+                <div class="@Html.IsSelected(controller: "Menu")">
+                    <a href="@Url.Action("Menu", "Menu")"><img src="~/Img/Inicio.svg" /> <span class="nav-label">Inicio</span></a>
+                    <br>
+                    </br>
+                </div>
+                <div class="@Html.IsSelected(controller: "Consultar")">
+                    <a href="@Url.Action("Consultar", "Consultar")"><img src="~/Img/Consultar.svg" /> <span class="nav-label">Consultar alumnos</span></a>
+                </div>
+                <br>
+                </br>
+                <div class="@Html.IsSelected(controller: "Agregar")">
+                    <a href="@Url.Action("Agregar", "Agregar")"><img src="~/Img/Alumnos.svg" /> <span class="nav-label">Agregar Alumnos</span></a>
+                </div>
+                <br>
+                </br>
+
+                <div class="@Html.IsSelected(controller: "Login")">
+                    <a href="@Url.Action("LogOut", "Login")"><img src="~/Img/Salir.svg" /> <span class="nav-label">Cerrar Sesión</span></a>
+                </div>
+
+            </span>
+        </li>
+        
+
+</nav>
+
+
+
+

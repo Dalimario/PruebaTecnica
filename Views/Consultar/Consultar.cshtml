@@ -1,0 +1,43 @@
+﻿@using PruebaTecnicaBackEndService;
+@model List<ConsultaAlumnosViewModel>
+@{
+    ViewData["Title"] = "Consulta de Alumnos";
+}
+<div align="center" >
+    <h1 class="loginHeader">Ventana de Consulta</h1>
+
+    <table class="table  table-bordered table-hover dataTables-example" margin-left: 2% margin-right: 2%;>
+        <thead>
+            <tr>
+                <td>Nombre</td>
+                <td>Apellido Paterno</td>
+                <td>Apellido Materno</td>
+                <td>Fecha de Nacimiento</td>
+                <td>Sexo</td>
+                <td>Grado</td>
+                <td>Email</td>
+                <td>Telefono</td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                String style = String.Empty;
+
+                foreach (var alumno in Model)
+                {                                          
+                        <tr class="gradeX">
+                            <td class="font-bold">@alumno.Nombre</td>
+                            <td class="font-bold">@alumno.ApellidoPaterno</td>
+                            <td class="font-bold">@alumno.ApellidoMaterno</td>
+                            <td class="font-bold">@alumno.FechaNacimiento.ToString().Remove(11)</td>
+                            <td class="font-bold">@alumno.Sexo</td>
+                            <td class="font-bold">@alumno.Grado</td>
+                            <td class="font-bold">@alumno.Email</td>
+                            <td class="font-bold">@alumno.Telefono</td>
+                        </tr>
+                    
+                }
+            }
+        </tbody>
+    </table>
+</div>

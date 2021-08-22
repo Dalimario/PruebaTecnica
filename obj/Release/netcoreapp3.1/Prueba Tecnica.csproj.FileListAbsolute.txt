@@ -1,0 +1,51 @@
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\appsettings.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Connected Services\Proveedor de Microsoft WCF Web Service Reference\ConnectedService.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Connected Services\PruebaTecnicaBackEndService\ConnectedService.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.exe
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.deps.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.runtimeconfig.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.runtimeconfig.dev.json
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.pdb
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.Views.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\Prueba Tecnica.Views.pdb
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.csproj.AssemblyReference.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.AssemblyInfoInputs.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.AssemblyInfo.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.csproj.CoreCompileInputs.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.MvcApplicationPartsAssemblyInfo.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.RazorAssemblyInfo.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.RazorAssemblyInfo.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\staticwebassets\Prueba Tecnica.StaticWebAssets.Manifest.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\staticwebassets\Prueba Tecnica.StaticWebAssets.xml
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\scopedcss\bundle\Prueba Tecnica.styles.css
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.TagHelpers.input.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.TagHelpers.output.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.RazorCoreGenerate.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Agregar\Agregar.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Consultar.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Consultar\Consultar.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Menu\Menu.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Navigation.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.RazorTargetAssemblyInfo.cache
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.RazorTargetAssemblyInfo.cs
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.Views.pdb
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.csproj.CopyComplete
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.dll
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.pdb
+D:\mchavarria\IMPORTANTE\Prueba\Prueba Tecnica\obj\Release\netcoreapp3.1\Prueba Tecnica.genruntimeconfig.cache

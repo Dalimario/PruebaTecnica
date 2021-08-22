@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Prueba_Tecnica</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Img\logo.png" />
+    <None Include="wwwroot\Img\password.svg" />
+    <None Include="wwwroot\Img\user.svg" />
+    <None Include="wwwroot\lib_bower\jquery-idletimer\jquery-idletimer.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.7.*" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.7.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
+  </ItemGroup>
+
+</Project>

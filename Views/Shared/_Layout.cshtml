@@ -1,0 +1,67 @@
+﻿@using Prueba_Tecnica.Helpers
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor Context
+@{
+    var isUserAuthenticated = Context.HttpContext.User.Identity.IsAuthenticated;
+    
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Prueba_Tecnica </title>
+    <link href="~/lib/sweetalert/dist/sweetalert.css" rel="stylesheet" />
+    <link href="~/lib/jquery/ui/jquery-ui.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/siteBack.css" />
+
+</head>
+<body>
+
+    <script src="~/lib/ajax/coreswal.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="~/js/select2.min.4.0.3.js"></script>
+    <script type="text/javascript" src="~/js/jquery.highlight-5.js"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/lib_bower/metisMenu/dist/metisMenu.js"></script>
+    <script src="~/lib_bower/slimScroll/jquery.slimscroll.js"></script>
+    <script src="~/lib_bower/pace/pace.js"></script>
+    <script src="~/js/script.js"></script>
+    <script src="~/lib/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="~/lib/chosen/chosen.jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation/dist/messages_es.js"></script>
+    <script src="~/lib_bower/jasny-bootstrap/dist/js/jasny-bootstrap.js"></script>
+    <script src="~/lib/jquery/ui/jquery-ui.min.js"></script>
+
+    @if (isUserAuthenticated) ///Se valida que se encuentre una sesion iniciada para mostrar la barra lateral
+    {
+        <div id="wrapper" class="@Html.PageClass()">
+            @Html.Partial("_Navigation")
+
+            <!-- Page wraper -->
+            <div id="page-wrapper">
+
+                <!-- Main view -->
+                @RenderBody()
+                @RenderSection("scripts", required: false)
+                @RenderSection("Content", false)
+
+            </div>
+        </div>
+    }
+    else
+    {
+        <div id="wrapperLogin" class="@Html.PageClass()" style="height: 100%">
+            @RenderBody()
+            @RenderSection("scripts", required: false)
+        </div>
+    }
+
+
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\mchavarria\IMPORTANTE\Prueba\Publciados\FrontEnd</_PublishTargetUrl>
+    <History>True|2021-08-22T14:50:46.3061401Z;True|2021-08-22T09:19:53.4671677-05:00;True|2021-08-21T15:31:32.3181418-05:00;</History>
+  </PropertyGroup>
+</Project>
